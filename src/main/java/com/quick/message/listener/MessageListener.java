@@ -4,7 +4,6 @@ package com.quick.message.listener;
 import com.quick.message.MessagingRabbitmqApplication;
 import com.quick.message.Model.Message;
 import com.quick.message.Model.TransactionType;
-import com.quick.message.repository.MessageRepository;
 import com.quick.message.service.MessageServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
